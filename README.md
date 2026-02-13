@@ -61,6 +61,12 @@ To analyze Amazon Prime content data and extract meaningful insights about:
 
 ---
 
+## 📊 Dashboard Preview
+
+![Amazon Prime Dashboard](amazon dashboard.png)
+
+---
+
 ## 👨‍💻 Author
 **Balarajan B**  
 Aspiring Data Analyst  
